@@ -1,0 +1,14 @@
+.product{
+    position:relative;
+    margin-left: 300px;
+    text-decoration: black;
+}
+
+.product-image{
+    background-image: url("../../SigninPage/signin-image.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}

@@ -1,0 +1,14 @@
+.company-form{
+    position: relative;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.addcompany-image{
+    background-image: url("../../../SigninPage/signin-image.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
